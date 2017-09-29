@@ -49,7 +49,7 @@
         "name": "Evil Eye / Blood and Black Lace (double-feature)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/09/29/evil-eye-aka-the-girl-who-knew-too-much/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/evil-eye-1-1024x576.jpg",
+        "image": "https://dailydead.com/wp-content/uploads/2016/04/Blood-Black-Lace-620.jpg",
         "dates": ["9/29"],
         "series": "",
         "types": ["movies"]
@@ -58,7 +58,7 @@
         "name": "Alien / The Thing (35mm double-feature)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/10/27/alien/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2015/08/the-thing-4-586.jpg",
+        "image": "https://machinemeandotorg.files.wordpress.com/2017/02/thething9.jpg",
         "dates": ["10/27"],
         "series": "Giallo Series",
         "types": ["movies"]
@@ -67,7 +67,7 @@
         "name": "All the Colors of the Dark (35mm)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/09/29/all-the-colors-of-the-dark/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/all-the-color-sof-the-dark-3-1024x432.jpg",
+        "image": "http://offscreen.com/images/made/images/articles/_resized/00-all-the-colors-of-the-dark-resize_1000_420_90_c1.jpg",
         "dates": ["9/29", "9/30"],
         "series": "Giallo Series",
         "types": ["movies"]
@@ -238,16 +238,16 @@
         "name": "Salem Haunted Dinner Theatre",
         "location": "Hawthorne Hotel, Salem MA",
         "link": "https://www.headfirstevents.com/shows/the-haunted-dinner-theater-bewitched/",
-        "image": "https://www.headfirstevents.com/wp-content/uploads/Haunted-Dinner-Theater-Logo-Large-1-300x158.jpg",
+        "image": "https://www.headfirstevents.com/wp-content/uploads/2016/05/hawthorne-hotel-e1404855492519.jpg",
         "dates": ["9/29", "9/30", "10/6", "10/7", "10/8", "10/13", "10/14", "10/20", "10/21", "10/27"],
         "series": "",
-        "type": ["performance"]
+        "types": ["performance"]
       },
       {
         "name": "5 Dolls for an August Moon / A Bay of Blood (double-feature)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/09/30/5-dolls-for-an-august-moon/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/bay-of-blood-5-1024x576.jpg",
+        "image": "https://i.ytimg.com/vi/6mD1ACqOO9Y/maxresdefault.jpg",
         "dates": ["9/30"],
         "series": "Giallo Series",
         "types": ["movies"]
@@ -256,7 +256,7 @@
         "name": "The Bird With The Crystal Plumage (35mm)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/09/30/the-bird-with-the-crystal-plumage-2/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/bird-with-the-crystal-plumage-6-1024x505.jpg",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91iPRh8ZMxL._SY679_.jpg",
         "dates": ["9/30", "10/1"],
         "series": "Giallo Series",
         "types": ["movies"]
@@ -420,7 +420,7 @@
         "name": "Kill Baby...Kill / Black Sabbath (double-feature)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/10/01/kill-baby-kill/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/10/kill-baby-kill-1c.jpg",
+        "image": "http://cdn2-www.comingsoon.net/assets/uploads/2017/06/KillBabyKill-e1497031488462.jpg",
         "dates": ["10/1"],
         "series": "Giallo Series",
         "types": ["movies"]
@@ -429,7 +429,7 @@
         "name": "What Have You Done To Solange?",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/10/05/what-have-you-done-to-solange-2/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/10/what-have-you-done-to-solange-6-1024x434.jpg",
+        "image": "http://nerdist.com/wp-content/uploads/2016/01/Solange-Main.jpg",
         "dates": ["10/5"],
         "series": "Giallo Series",
         "types": ["movies"]
@@ -438,7 +438,7 @@
         "name": "Your Vice Is A Locked Room & Only I Have The Key / Don't Torture A Duckling (double feature)",
         "location": "Brattle Theatre, Harvard Square, Cambridge MA",
         "link": "http://www.brattlefilm.org/2017/10/04/your-vice-is-a-locked-room-and-only-i-have-the-key/",
-        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/10/your-vice-1.jpg",
+        "image": "http://4.bp.blogspot.com/-cqOc0hOEXL8/UgUZgUww0kI/AAAAAAAAE40/igrenjQAIHo/w1200-h630-p-k-no-nu/YOUR+VICE+IS+A+LOCKED+ROOM+-+Silver+Ferox+Design+WEB.jpg",
         "dates": ["10/4"],
         "series": "Giallo Series",
         "types": ["movies"]
