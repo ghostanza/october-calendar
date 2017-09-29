@@ -1,0 +1,654 @@
+{
+  "events":[
+      {
+        "name": "Perturbator",
+        "location": "Brighton Music Hall, Allston MA",
+        "link": "https://www1.ticketmaster.com/event/010052A4C12D4014?camefrom=cfc_crpres_web_Perturbator_051017",
+        "image": "https://i.scdn.co/image/9307619fd98d55ea50281582331f130ef0858181",
+        "dates": ["9/29"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
+        "name": "Chelsea Wolfe",
+        "location": "The Sinclair, Cambridge MA",
+        "link": "http://www.boweryboston.com/event/1506118-chelsea-wolfe-cambridge/",
+        "image": "https://consequenceofsound.files.wordpress.com/2017/06/chelsea-wolfe-by-bill-crisafi.jpg?quality=80&w=807",
+        "dates": ["10/19"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
+        "name": "John Carpenter: Anthology Tour",
+        "location": "The Royale, Boston MA",
+        "link": "http://www.boweryboston.com/event/1546538-john-carpenter-anthology-tour-boston/",
+        "image": "https://i.axs.com/2017/08/john-carpenter-anthology-tour-tickets_11-04-17_17_599e3314e9916.jpg",
+        "dates": ["11/15"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
+        "name": "Gost w/Dance With The Dead",
+        "location": "ONCE Ballroom, Somerville MA",
+        "link": "http://www.oncesomerville.com/event/1537510-dance-dead-gost-somerville/",
+        "image": "https://image-ticketfly.imgix.net/00/02/63/55/72-og.jpg?w=600&h=600",
+        "dates": ["11/1"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
+        "name": "Goblin w/Morricone Youth",
+        "location": "The Sinclair, Cambridge MA",
+        "link": "http://www.boweryboston.com/event/1534378-goblin-cambridge/",
+        "image": "https://consequenceofsound.files.wordpress.com/2017/08/goblin_1920x1080_fb-event.jpg?quality=80&w=806&h=454",
+        "dates": ["10/30"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
+        "name": "Evil Eye / Blood and Black Lace (double-feature)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/09/29/evil-eye-aka-the-girl-who-knew-too-much/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/evil-eye-1-1024x576.jpg",
+        "dates": ["9/29"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Alien / The Thing (35mm double-feature)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/10/27/alien/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2015/08/the-thing-4-586.jpg",
+        "dates": ["10/27"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "All the Colors of the Dark (35mm)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/09/29/all-the-colors-of-the-dark/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/all-the-color-sof-the-dark-3-1024x432.jpg",
+        "dates": ["9/29", "9/30"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "When A Stranger Calls (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/when-stranger-calls-1979",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/When_a_Stranger_Calls_banner.jpg?1498155930",
+        "dates": ["9/29"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Zombie (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/zombie",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/ZOMBI_2_08Banner.jpg?1500256613",
+        "dates": ["10/28"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Pet Sematary (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/pet-sematary",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/Pet_Sematary_banner.jpg?1311025897",
+        "dates": ["10/31"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Night of the Living Dead (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/night-living-dead",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/NOLD_zombiesBanner.jpg?1500256134",
+        "dates": ["10/28"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Carrie / Christine (35mm double-feature)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://store.coolidge.org/WebSales/Pages/TicketSearchCriteria.aspx?epguid=f740e0c1-ba1c-4632-b43d-0f9f0a474d69&evtcode=66713~2227d6a5-68f5-41c2-b22e-813c872c64f4&",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/Carrie_banner3.jpg?1354032895",
+        "dates": ["10/30"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Halloween Horror Marathon",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/events/halloween-horror-marathon-2017",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/Night_of_Living_Dead_HFC_FB.jpg?1500255349",
+        "dates": ["10/28"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Monster Squad (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/monster-squad-0",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/TMS_Banner.jpg?1485216569",
+        "dates": ["10/26"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Black Sunday",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/black-sunday-1960",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/Black_Sunday_banner.jpg?1498678802",
+        "dates": ["10/27"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Beyond w/Live Score by Fabio Frizzi",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/beyond-composers-cut-live-score-fabio-frizzi",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/frizzi_banner3.jpg?1495658561",
+        "dates": ["10/24"],
+        "series": "",
+        "types": ["movies", "music", "performance"]
+      },
+      {
+        "name": "Ghost Stories At Gore Mansion",
+        "location": "Gore Place, Waltham MA",
+        "link": "http://goreplace.org/event/frightful-fridays-ghost-stories-in-the-mansion-5/2017-10-13/",
+        "image": "http://goreplace.org/wp-content/uploads/2015/03/Frightful-Fridays-Slider-1-e1502893616691.jpg",
+        "dates": ["10/13", "10/20", "10/27"],
+        "series": "",
+        "types": ["performance"]
+      },
+      {
+        "name": "The Room (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/room-0",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/banner_73.jpg?1330463725",
+        "dates": ["10/13"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Suspria (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/suspiria",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/suspiria_banner.jpg?1498064818",
+        "dates": ["10/14"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Rawhead Rex",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/rawhead-rex",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/rawhead%20rex_banner.jpg?1501008715",
+        "dates": ["10/20", "10/21"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Stendhal Syndrome",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/stendhal-syndrome",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/Stendhal_Syndrome_banner.jpg?1501007910",
+        "dates": ["10/20"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Deep Red (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/deep-red",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/deepred_banner2.jpg?1501006855",
+        "dates": ["10/21"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Suspria (35mm) / Inferno (double-feature)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://store.coolidge.org/WebSales/Pages/TicketSearchCriteria.aspx?epguid=f740e0c1-ba1c-4632-b43d-0f9f0a474d69&evtcode=70460~2227d6a5-68f5-41c2-b22e-813c872c64f4&",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/suspiria_banner.jpg?1498064818",
+        "dates": ["10/17"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "\"Camp Crystal Lake\" at Rocky Woods (F13 2 & 7)",
+        "location": "Rocky Woods Reservation, Medfield MA",
+        "link": "http://www.coolidge.org/films/friday-13th-camp-crystal-lake-rocky-woods-reservation-part-3",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/Friday_13_1985_banner.jpg?1498159958",
+        "dates": ["10/13"],
+        "series": "",
+        "types": ["movies", "live"]
+      },
+      {
+        "name": "The House By The Cemetery (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/house-cemetery",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/HouseCemetary2_banner.jpg?1498672162",
+        "dates": ["10/6"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Salem Haunted Dinner Theatre",
+        "location": "Hawthorne Hotel, Salem MA",
+        "link": "https://www.headfirstevents.com/shows/the-haunted-dinner-theater-bewitched/",
+        "image": "https://www.headfirstevents.com/wp-content/uploads/Haunted-Dinner-Theater-Logo-Large-1-300x158.jpg",
+        "dates": ["9/29", "9/30", "10/6", "10/7", "10/8", "10/13", "10/14", "10/20", "10/21", "10/27"],
+        "series": "",
+        "type": ["performance"]
+      },
+      {
+        "name": "5 Dolls for an August Moon / A Bay of Blood (double-feature)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/09/30/5-dolls-for-an-august-moon/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/bay-of-blood-5-1024x576.jpg",
+        "dates": ["9/30"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Bird With The Crystal Plumage (35mm)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/09/30/the-bird-with-the-crystal-plumage-2/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/09/bird-with-the-crystal-plumage-6-1024x505.jpg",
+        "dates": ["9/30", "10/1"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "Gods and Monsters Screening & Panel",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/9/30/gods-monsters",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/588c388af7e0ab9c094290cd/1504035700057/godmon.jpg?format=800w",
+        "dates": ["9/30"],
+        "series": "Salem Horror Fest",
+        "types": ["movies", "panel"]
+      },
+      {
+        "name": "Meet & Greet with Lar Park Lincoln",
+        "location": "Count Orlok's Nightmare Gallery, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/7/meet-lar-park-lincoln",
+        "image": "http://bh-s2.azureedge.net/bh-uploads/2015/11/Lar-bg12.jpg",
+        "dates": ["10/7"],
+        "series": "Salem Horror Fest",
+        "types": ["celebrity appearance"]
+      },
+      {
+
+        "name": "Women With Guts (Tragedy Girls / F13 pt 7) + Panel",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/7/women-with-guts",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/59109d031b10e3154475f48e/1499809999751/womenwithguts.jpg?format=800w",
+        "dates": ["10/7"],
+        "series": "Salem Horror Fest",
+        "types": ["movies", "panel", "celebrity appearance"]
+      },
+      {
+
+        "name": "Midnight Paranormal Investigation",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/7/cinema-ghost-hunt",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/595c23858419c2e81eebf933/1499886293148/shari.jpg?format=800w",
+        "dates": ["10/7"],
+        "series": "Salem Horror Fest",
+        "types": ["haunted attraction", "celebrity appearance"]
+      },
+      {
+        "name": "The Haunting Screening & Panel",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/1/the-haunting",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/588c2fd1e6f2e1805332746c/1499808288205/haunting.jpg?format=600w",
+        "dates": ["10/1"],
+        "series": "Salem Horror Fest",
+        "types": ["movies", "panel"]
+      },
+      {
+        "name": "Wicked Shorts",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/05/wicked-shorts",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/588f8d666b8f5b07d8b7d701/1499209813001/wickedshorts+copy.jpg?format=800w",
+        "dates": ["10/5"],
+        "series": "Salem Horror Fest",
+        "types": ["movies", "panel"]
+      },
+      {
+        "name": "Get Out / People Under The Stairs (double-feature) + Music",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/05/wicked-shorts",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/58d9b5a146c3c48b75336647/1499209824763/get-out-horror.jpg?format=800w",
+        "dates": ["10/6"],
+        "series": "Salem Horror Fest",
+        "types": ["movies", "performance", "music"]
+      },
+      {
+        "name": "Peeping Tom (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/when-stranger-calls-1979",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/peepingtom_banner3.jpg?1498156608",
+        "dates": ["9/30"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Gates of Hell (35mm)",
+        "location": "Coolidge Corner Theatre, Brookline MA",
+        "link": "http://www.coolidge.org/films/gates-hell",
+        "image": "http://www.coolidge.org/sites/default/files/images/banners/cityofthelivingdead_banner.jpg?1498158733",
+        "dates": ["10/7"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "American Psycho / Texas Chainsaw Massacre (double-feature)",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/8/american-psycho",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/58d9b9a3bf629a8f329c7997/1499209912076/texas-chainsaw-massacer.jpg?format=800w",
+        "dates": ["10/8"],
+        "series": "Salem Horror Fest",
+        "types": ["movies"]
+      },
+      {
+        "name": "Faculty Of Horror Live Podcast",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/8/faculty-of-horror-live-podcast",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/5928e2b1bebafb216b44a1aa/1499209889973/faculty+of+horror.jpg?format=800w",
+        "dates": ["10/8"],
+        "series": "Salem Horror Fest",
+        "types": ["panel", "performance", "podcast"]
+      },
+      {
+        "name": "The Mist / They Live (double-feature)",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/9/the-mist",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/58d9bc772994ca605348355f/1499209941432/They-Live-final-Main.jpg?format=800w",
+        "dates": ["10/9"],
+        "series": "Salem Horror Fest",
+        "types": ["movies"]
+      },
+      {
+        "name": "Cruising / Nightmare On Elm Street 2 (double-feature)",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/3/26/nightmare-on-elm-street-2-freddys-revenge",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/58d9be11ff7c5081efff1f3e/1499210323747/011-cruising-theredlist.jpg?format=800w",
+        "dates": ["10/13"],
+        "series": "Salem Horror Fest",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Horror Show Live Podcast",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/14/the-horror-show-live-podcast",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/594328c66a4963db87bfc613/1499210336544/IMG_9731.JPG?format=800w",
+        "dates": ["10/14"],
+        "series": "Salem Horror Fest",
+        "types": ["panel", "podcast", "performance"]
+      },
+      {
+        "name": "Halloween 3 / Videodrome (double-feature)",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/14/halloween-3-season-of-the-witch",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/58d9bed93a0411e118bfcabc/1499210459990/hall3.jpg?format=800w",
+        "dates": ["10/14"],
+        "series": "Salem Horror Fest",
+        "types": ["movies"]
+      },
+      {
+        "name": "Fright Night / Let The Right One In (double-feature)",
+        "location": "CinemaSalem, Salem MA",
+        "link": "https://www.salemhorror.com/schedule/2017/10/15/fright-night",
+        "image": "https://static1.squarespace.com/static/588c0f4837c581b5b810c656/588c109d8419c21a39d42e5b/58daa326d482e96ad9757978/1499210489512/fright-night.jpg?format=800w",
+        "dates": ["10/15"],
+        "series": "Salem Horror Fest",
+        "types": ["movies"]
+      },
+      {
+        "name": "Zola Jesus",
+        "location": "Institute of Contemporary Art, Boston MA",
+        "link": "https://www.icaboston.org/events/zola-jesus",
+        "image": "https://www.icaboston.org/sites/default/files/styles/partial_width_uncropped/public/aokovifront.jpg?itok=HIYDoVrW",
+        "dates": ["10/1"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
+        "name": "Kill Baby...Kill / Black Sabbath (double-feature)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/10/01/kill-baby-kill/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/10/kill-baby-kill-1c.jpg",
+        "dates": ["10/1"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "What Have You Done To Solange?",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/10/05/what-have-you-done-to-solange-2/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/10/what-have-you-done-to-solange-6-1024x434.jpg",
+        "dates": ["10/5"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "Your Vice Is A Locked Room & Only I Have The Key / Don't Torture A Duckling (double feature)",
+        "location": "Brattle Theatre, Harvard Square, Cambridge MA",
+        "link": "http://www.brattlefilm.org/2017/10/04/your-vice-is-a-locked-room-and-only-i-have-the-key/",
+        "image": "http://www.brattlefilm.org/brattle/wp-content/uploads/2017/10/your-vice-1.jpg",
+        "dates": ["10/4"],
+        "series": "Giallo Series",
+        "types": ["movies"]
+      },
+      {
+        "name": "Sleepy Hollow Experience",
+        "location": "Sturbridge Village, Sturbridge MA",
+        "link": "http://www.sleepyhollowosv.org/",
+        "image": "http://www.sleepyhollowosv.org/uploads/5/5/7/4/55746135/ichabodheadless_orig.jpg",
+        "dates": ["10/1", "10/11", "10/22", "10/29"],
+        "series": "",
+        "types": ["performance"]
+      },
+      {
+        "name": "Marilyn Manson",
+        "location": "House of Blues, Boston MA",
+        "link": "http://www.houseofblues.com/boston/EventDetail?tmeventid=010052DEA61B2A30&offerid=0",
+        "image": "http://s1.ticketm.net/dam/a/981/f8d549db-2681-46f3-be46-d9a29e0a8981_456191_TABLET_LANDSCAPE_3_2.jpg",
+        "dates": ["10/1"],
+        "series": "",
+        "types": ["music","performance"]
+      },
+      {
+        "name": "Hysteria Danvers",
+        "location": "Connors Farm, Danvers MA",
+        "link": "http://hysteriadanvers.com/",
+        "image": "http://hysteriadanvers.com/wp-content/uploads/2015/03/CERBSISH.jpg",
+        "dates": ["10/6", "10/7", "10/8", "10/13", "10/14", "10/20", "10/21", "10/27", "10/28", "10/31"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "\"Gorelesque\" + Army of Darkness (35mm)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://boston.carpediem.cd/events/4714566-boomstick-gorelesque-army-of-darkness-in-35mm-at-somerville-theatre/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/boomstick1-e1506198852593.jpg",
+        "dates": ["10/6"],
+        "series": "",
+        "types": ["movies", "performance"]
+      },
+      {
+        "name": "\"Cabaret In The Woods\"",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "https://www.facebook.com/events/805083706340281/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/cabaret-image.jpg",
+        "dates": ["10/20"],
+        "series": "",
+        "types": ["movies", "performance"]
+      },
+      {
+        "name": "The Monster Club",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/themonsterclub.jpg",
+        "dates": ["10/8"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Shaun of the Dead (35mm)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/shaun-of-the-dead-nick-frost-simon-pegg-e1506200902892.jpg",
+        "dates": ["10/10"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Scream",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/scream-image-e1506202077341.jpg",
+        "dates": ["10/11"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Rock and Shock - Horror Convention",
+        "location": "DCU Center, Worcester MA",
+        "link": "http://rockandshock.com/",
+        "image": "http://rockandshock.com/2012/wp-content/uploads/2017/07/rs-web-logo-2017-1024x299.jpg",
+        "dates": ["10/13", "10/14", "10/15"],
+        "series": "",
+        "types": ["convention", "performance", "panel", "celebrit appearance"]
+      },
+      {
+        "name": "May",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/may-poster-art-e1506202260401.jpg",
+        "dates": ["10/12"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Poltergeist (35mm)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/Poltergeist-e1506202423102.jpg",
+        "dates": ["10/13"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Love Witch (35mm)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/The-Love-Witch-e1506202797654.jpg",
+        "dates": ["10/15"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Horror of Dracula (35mm)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/the-horror-of-dracula-christopher-lee--e1506203027558.jpg",
+        "dates": ["10/15"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Babadook",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/babadook-image-e1506273881934.jpg",
+        "dates": ["10/15"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Old School Game Show (Halloween Edition)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://www.oldschoolgameshow.com/tickets.html",
+        "image": "http://www.oldschoolgameshow.com/uploads/9/9/0/4/99044298/osgs-halloween-somervilletheatre-poster-screenquality_orig.jpg",
+        "dates": ["10/14"],
+        "series": "",
+        "types": ["live", "performance"]
+      },
+      {
+        "name": "The Amityville Horror (1979) / Session 9 (double-feature)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/amityville-horror-image-e1506274261335.jpg",
+        "dates": ["10/18"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Ghost & Mr. Chicken / Abbott & Costello Meet The Mummy (35mm double-feature)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/ghost-and-mr-chicken-image-e1506275840175.jpg",
+        "dates": ["10/22"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "The Haunting (35mm)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/haunting-image-e1506276350345.jpg",
+        "dates": ["10/25"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Boston Underground Film Festival Shorts Program",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "",
+        "dates": ["10/26"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Frankenstein / Bride of Frankensteing (35mm double-feature)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/bride-of-frankenstein-image-e1506276748606.jpg",
+        "dates": ["10/27"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Psyco I, II, III (35mm triple-feature)",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "https://www.facebook.com/events/496091450748395/",
+        "image": "http://somervilletheatre.com/wp-content/uploads/2017/09/psycho1-e1506199786311.jpeg",
+        "dates": ["10/6"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
+        "name": "Rocky Horror Picture Show + Performance",
+        "location": "Somerville Theatre, Somerville MA",
+        "link": "http://somervilletheatre.com/repertory-programs/",
+        "image": "",
+        "dates": ["10/31"],
+        "series": "",
+        "types": ["movies", "performance"]
+      },
+      {
+        "name": "From Planchette to Baphomet (Art and Panel)",
+        "location": "The Satanic Temple, Salem MA",
+        "link": "https://www.facebook.com/events/256859938157289/",
+        "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/20615688_329378087509719_3073328160191642123_o.jpg?oh=b2427c3a39b1c10b3ba2f4cf907a86cb&oe=5A462648",
+        "dates": ["10/7"],
+        "series": "",
+        "types": ["art","performance"]
+      }
+  ]
+}
