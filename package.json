@@ -8,7 +8,8 @@
     "start": "node src/server/server.js",
     "try" : "NODE_ENV=development webpack && npm start",
     "build:dev": "NODE_ENV=development webpack",
-    "build:prod": "NODE_ENV=production webpack"
+    "build:prod": "NODE_ENV=production webpack",
+    "deploy": "git push origin master && git push heroku master"
   },
   "keywords": [],
   "author": "Justin Walker",

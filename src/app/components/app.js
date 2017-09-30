@@ -16,6 +16,7 @@ export default class App extends React.Component {
     this.setNewDate = this.setNewDate.bind(this);
   }
   incDate(){
+    window.scrollTo(0,0);
     this.setState((prev) => {
       let dateClone = new Date(prev.date.getTime());
       dateClone.setDate(dateClone.getDate()+1);
@@ -23,6 +24,7 @@ export default class App extends React.Component {
     });
   }
   decDate(){
+    window.scrollTo(0,0);
     this.setState((prev) => {
       let dateClone = new Date(prev.date.getTime());
       dateClone.setDate(dateClone.getDate()-1);
@@ -30,6 +32,7 @@ export default class App extends React.Component {
     })
   }
   setNewDate(month, day){
+    window.scrollTo(0,0);
     let monthFormat = parseInt(month) <= 9 ? (0+(parseInt(month)).toString()) : month;
     this.setState((p)=>{
       return { ...p, date: new Date(`${monthFormat}/${day}/2017` : ''), searchType: 'date'}
