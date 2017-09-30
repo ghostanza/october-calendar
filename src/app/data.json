@@ -307,6 +307,51 @@
         "types": ["celebrity appearance"]
       },
       {
+        "name": "Horror Trivia",
+        "location": "KOTO, Salem MA",
+        "link": "https://www.facebook.com/events/1776109576020434/",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21551727_476659556051587_2956837913146600043_o.jpg?oh=9a479ddf8b597fb32d195e6c718e2961&oe=5A3E8863",
+        "dates": ["10/11"],
+        "series": "",
+        "types": ["trivia"]
+      },
+      {
+        "name": "Walking Dead Trivia + Music",
+        "location": "KOTO, Salem MA",
+        "link": "https://www.facebook.com/events/487564478289183/",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t1.0-9/22007411_482327982151411_8284429199490499872_n.jpg?oh=314120523c2ce89231627fafadc7525a&oe=5A3BF94A",
+        "dates": ["10/18"],
+        "series": "",
+        "types": ["trivia", "music"]
+      },
+      {
+        "name": "Horror Trivia",
+        "location": "Far From The Tree Cider, Salem MA",
+        "link": "https://www.facebook.com/events/2049788391923638/",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21731646_478083649242511_8133259357816722129_o.jpg?oh=72769674595b5fe82343d24f217cf886&oe=5A530FED",
+        "dates": ["10/2"],
+        "series": "",
+        "types": ["trivia"]
+      },
+      {
+        "name": "Stephen King Trivia",
+        "location": "Far From The Tree Cider, Salem MA",
+        "link": "https://www.facebook.com/events/117566802242184",
+        "image": "https://www.facebook.com/CaptainCrewsQuestionCruise/photos/gm.117566808908850/474013112982898/?type=3&theater",
+        "dates": ["10/9"],
+        "series": "",
+        "types": ["trivia"]
+      },
+      {
+        "name": "Tree House of Horror Trivia",
+        "location": "Smokin' Betty's BBQ, Salem MA",
+        "link": "https://www.facebook.com/events/1982551248680737",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21728848_478082949242581_8985891303065024772_o.jpg?oh=8599ece4e81004b89bf83ec6c826cc15&oe=5A3E3F0C",
+        "dates": ["10/17"],
+        "series": "",
+        "types": ["trivia"]
+      },
+      {
         "name": "Meet & Greet with William Ragsdale",
         "location": "Count Orlok's Nightmare Gallery, Salem MA",
         "link": "http://www.nightmaregallery.com/october",
@@ -314,6 +359,24 @@
         "dates": ["10/13","10/14","10/15"],
         "series": "",
         "types": ["celebrity appearance"]
+      },
+      {
+        "name": "Boston HalloWeekend Pub Crawl",
+        "location": "Fanueil Hall, Boston MA",
+        "link": "https://www.eventbrite.com/e/boston-halloweekend-pub-crawl-2017-faneuil-hall-tickets-36643683243",
+        "image": "https://s.evbuc.com/https_proxy?url=http%3A%2F%2Fpubcrawls.com%2Fimages%2Fevents%2Fhalloween%2F2017%2Fboston%2Fflyer.jpg&sig=ADR2i79JEtdaxPlaNpUoL2nsdZO7853beg",
+        "dates": ["10/27","10/28","10/31"],
+        "series": "",
+        "types": ["beers for fears"]
+      },
+      {
+        "name": "Halloween Thriller at Hard Rock Boston",
+        "location": "Hard Rock, Boston MA",
+        "link": "https://www.eventbrite.com/e/3rd-annual-halloween-thriller-at-hard-rock-boston-faneuil-hall-tickets-37136610602?aff=erelexpmlt",
+        "image": "https://s.evbuc.com/https_proxy?url=http%3A%2F%2Fpubcrawls.com%2Fimages%2Fevents%2Fhalloween%2F2017%2Fboston%2Fflyer.jpg&sig=ADR2i79JEtdaxPlaNpUoL2nsdZO7853beg",
+        "dates": ["10/28"],
+        "series": "",
+        "types": ["party"]
       },
       {
 
