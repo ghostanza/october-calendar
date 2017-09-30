@@ -309,9 +309,9 @@
       {
         "name": "Boston Pops Perform Nightmare Before Christmas",
         "location": "Symphony Hall, Boston MA",
-        "link": "https://www.bso.org/Performance/Detail/91090",
+        "link": "https://www.bso.org/Performance?brands=6425&startDate=10/30/2017%2012:00:00%20AM&endDate=11/1/2017%2012:00:00%20AM",
         "image": "https://cdn-ssl.img.disneystore.com/content/ds/skyway/2012/category/full/cp_FWB_Nightmare_20120926.jpg",
-        "dates": ["10/30"],
+        "dates": ["10/30", "10/31"],
         "series": "",
         "types": ["movies", "music", "performance"]
       },
