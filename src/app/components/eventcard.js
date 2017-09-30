@@ -12,11 +12,12 @@ export default class EventCard extends React.Component {
             {this.props.event.name ? (<h2 className="event-name">{this.props.event.name}</h2>) : ''}
           </div>
           <div className="sub-info">
+            {this.props.withDate && this.props.event.dates.length ? (<p className='dates'>{this.props.event.dates.join(', ')}</p>) : ''}
             {this.props.event.location ? (<h3 className="event-location">{this.props.event.location}</h3>) : ''}
             {this.props.event.types ? (<p className="event-type">{this.props.event.types.join(', ')}</p>) : ''}
           </div>
         </div>
-        { this.props.event.link ? (<div className="more-info">More Info</div>) : ''}
+        { this.props.event.link ? (<div className="more-info">Click For More Info</div>) : ''}
         </a>
       </div>
     )
