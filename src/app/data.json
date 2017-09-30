@@ -307,6 +307,33 @@
         "types": ["celebrity appearance"]
       },
       {
+        "name": "Nosferatu + Live Music",
+        "location": "Aeronaut Brewery, Somerville MA",
+        "link": "https://www.eventbrite.com/e/film-nosferatu-with-live-music-tickets-37554476450",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35266083%2F70025737755%2F1%2Foriginal.jpg?w=800&rect=0%2C475%2C3188%2C1594&s=88002c930f881f1ac4a9a995ed1bbf68",
+        "dates": ["10/15"],
+        "series": "",
+        "types": ["movies", "music", "performance"]
+      },
+      {
+        "name": "An Afternoon With Edgard Allan Poe",
+        "location": "Mount Auburn Cemetery, Cambridge MA",
+        "link": "https://www.eventbrite.com/e/an-afternoon-with-edgar-allan-poe-tickets-37319963014?aff=efbeventtix",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F34733748%2F22222181956%2F1%2Foriginal.jpg?w=800&rect=0%2C450%2C3000%2C1500&s=98cea68251a0b539584bd73fcb85a6f7",
+        "dates": ["10/22"],
+        "series": "",
+        "types": ["performance"]
+      },
+      {
+        "name": "Hocus Pocus",
+        "location": "Luna Theatre, Lowell MA",
+        "link": "https://www.eventbrite.com/e/hocus-pocus-tickets-38190099616",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/hero_hocuspocus_mobile_646a5d74.jpeg",
+        "dates": ["10/15"],
+        "series": "",
+        "types": ["movies"]
+      },
+      {
         "name": "Boston Pops Perform Nightmare Before Christmas",
         "location": "Symphony Hall, Boston MA",
         "link": "https://www.bso.org/Performance?brands=6425&startDate=10/30/2017%2012:00:00%20AM&endDate=11/1/2017%2012:00:00%20AM",
@@ -323,6 +350,24 @@
         "dates": ["10/11"],
         "series": "",
         "types": ["trivia"]
+      },
+      {
+        "name": "Hocus Pocus Trivia",
+        "location": "Southside Tavern, Braintree MA",
+        "link": "https://www.facebook.com/events/272465583246703",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/hero_hocuspocus_mobile_646a5d74.jpeg",
+        "dates": ["10/31"],
+        "series": "",
+        "types": ["trivia"]
+      },
+      {
+        "name": "Discussion with Patrick McHale",
+        "location": "Arts At The Armory, Somerville MA",
+        "link": "https://www.facebook.com/events/167281360494813",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t1.0-9/21751312_2031727746852932_4736574044250485023_n.jpg?oh=f85fdfc6c39373cf1ad79fb92bc7ced0&oe=5A4FAECB",
+        "dates": ["10/12"],
+        "series": "",
+        "types": ["discussion"]
       },
       {
         "name": "Walking Dead Trivia + Music",
