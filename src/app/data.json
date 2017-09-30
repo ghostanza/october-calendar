@@ -37,6 +37,24 @@
         "types": ["music", "performance"]
       },
       {
+        "name": "Metal Yoga",
+        "location": "ONCE Ballroom, Somerville MA",
+        "link": "http://www.oncesomerville.com/event/1551766-metal-yoga-black-widow-yoga-somerville/",
+        "image": "https://image-ticketfly.imgix.net/00/02/52/54/57-og.JPG?w=576&h=610",
+        "dates": ["10/24"],
+        "series": "",
+        "types": ["workout"]
+      },
+      {
+        "name": "Nekromantix",
+        "location": "Middle East, Cambridge MA",
+        "link": "http://www.mideastoffers.com/event/7669555/",
+        "image": "http://dyingscene.com/wp-content/uploads/Nekromantix-logo.png",
+        "dates": ["10/18"],
+        "series": "",
+        "types": ["music", "performance"]
+      },
+      {
         "name": "Goblin w/Morricone Youth",
         "location": "The Sinclair, Cambridge MA",
         "link": "http://www.boweryboston.com/event/1534378-goblin-cambridge/",
