@@ -649,6 +649,105 @@
         "dates": ["10/7"],
         "series": "",
         "types": ["art","performance"]
+      },
+      {
+        "name": "Metal Yoga + Tarot Readings",
+        "location": "The Satanic Temple, Salem MA",
+        "link": "https://www.facebook.com/events/2028851417337654",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21688367_879324825565470_1365080435032635908_o.jpg?oh=553610e132afd325049c85c6e2bf4595&oe=5A4E52AA",
+        "dates": ["10/9"],
+        "series": "",
+        "types": ["performance", "workout", "tarot"]
+      },
+      {
+        "name": "Witches, Sluts, Feminists: Unleashing the \"Demon Feminine\"",
+        "location": "The Satanic Temple, Salem MA",
+        "link": "https://www.facebook.com/events/2028851417337654",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21688367_879324825565470_1365080435032635908_o.jpg?oh=553610e132afd325049c85c6e2bf4595&oe=5A4E52AA",
+        "dates": ["10/14"],
+        "series": "Horror Archetypes as Social Metaphors",
+        "types": ["panel", "discussion"]
+      },
+      {
+        "name": "Werewolves: Coming of Age as One of the Others",
+        "location": "The Satanic Temple, Salem MA",
+        "link": "https://www.facebook.com/events/220326961830784/",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21427177_342578962856298_4984012709755775052_o.jpg?oh=581eff50ea3c8e835105d720a3ff1bb1&oe=5A3C41B2",
+        "dates": ["10/28"],
+        "series": "Horror Archetypes as Social Metaphors",
+        "types": ["panel", "discussion"]
+      },
+      {
+        "name": "Fright Fest New England",
+        "location": "Six Flags, Agawam MA",
+        "link": "https://www.sixflags.com/newengland/special-events/fright-fest-night",
+        "image": "https://www.sixflags.com/sites/default/files/styles/landing_page_2_across/public/sfne-17_sc3d_teaser_0.jpg",
+        "dates": ["9/30","10/1","10/6","10/7","10/8","10/9","10/13","10/14","10/15","10/20","10/21","10/22","10/27","10/28","10/29"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "Screemfest",
+        "location": "Canobie Lake Park, Salem NH",
+        "link": "http://www.canobie.com/screeemfest/",
+        "image": "http://www.canobie.com/wp-content/uploads/2016/08/Haunts_banner.jpg",
+        "dates": ["9/30","10/1","10/6","10/7","10/8","10/9","10/13","10/14","10/15","10/20","10/21","10/22","10/27","10/28","10/29"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "Witch's Woods",
+        "location": "Nashoba Valley Ski Area, Westford MA",
+        "link": "https://witchswoods.com/",
+        "image": "https://witchswoods.com/wp-content/uploads/2013/04/0H9A0972-1020x680.jpg",
+        "dates": ["9/30","10/1","10/5","10/6","10/7","10/8","10/12","10/13","10/14","10/15","10/19","10/20","10/21","10/22","10/27","10/28","10/29","10/30","10/31"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "DementedFX",
+        "location": "Holyoke MA",
+        "link": "https://www.dementedfx.com/",
+        "image": "https://static1.squarespace.com/static/535dc6f3e4b0f06595bfd781/t/59af5423e5dd5bdcf517e1ab/1504666360120/14484837_668225819995802_3954669213398178618_n.jpg",
+        "dates": ["9/30","10/1","10/6","10/7","10/8","10/13","10/14","10/15","10/19","10/20","10/21","10/22","10/26","10/27","10/28","10/29"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "Factory of Terror",
+        "location": "Worcester MA",
+        "link": "http://factoryofterror.com/worcester",
+        "image": "http://www.mahauntedhouses.com/haunt-photo/cp2/factoryterror-worcester-ma-ma_11975.jpg",
+        "dates": ["9/30","10/6","10/7","10/8","10/13","10/14","10/20","10/21","10/22","10/27","10/28","10/29","10/31","11/4"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "Ghost Ship Harbor",
+        "location": "USS Salem, Quincy MA",
+        "link": "http://www.ghostshipharbor.com/",
+        "image": "https://albumizr.com/ia/1650aeac29c1000a6265c9c5aff54222.jpg",
+        "dates": ["9/30","10/6","10/7","10/8","10/12","10/13","10/14","10/15","10/19","10/20","10/21","10/22","10/26","10/27","10/28","10/29","10/31"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "Spooky World: Nightmare New England",
+        "location": "Litchfield MA",
+        "link": "http://www.nightmarenewengland.com/",
+        "image": "http://nightmarenewengland.com/images/uploads/Chainsaw.jpg",
+        "dates": ["9/30","10/6","10/7","10/8","10/9","10/12","10/13","10/14","10/15","10/19","10/20","10/21","10/22","10/26","10/27","10/28","10/29","10/31"],
+        "series": "",
+        "types": ["haunted attraction"]
+      },
+      {
+        "name": "Barret's Haunted Mansion",
+        "location": "Abington MA",
+        "link": "http://www.bhmansion.com/",
+        "image": "https://media.licdn.com/media/p/6/000/271/0b3/3904c8b.png",
+        "dates": ["9/30","10/5","10/6","10/7","10/8","10/9","10/12","10/13","10/14","10/15","10/17","10/19","10/20","10/21","10/22","10/24","10/25","10/26","10/27","10/28","10/29","11/3","11/4"],
+        "series": "",
+        "types": ["haunted attraction"]
       }
   ]
 }
