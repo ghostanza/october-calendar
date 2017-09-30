@@ -343,6 +343,15 @@
         "types": ["movies", "music", "performance"]
       },
       {
+        "name": "8-Bit Massacre: Hip Hop Horror Party",
+        "location": "Bit Bar, Salem MA",
+        "link": "https://www.facebook.com/events/301274860349958",
+        "image": "https://scontent.fnyc1-1.fna.fbcdn.net/v/t31.0-8/21316330_1666009220089984_788064905149683621_o.jpg?oh=3013bf3484ba4e6765c9e87c64c5df66&oe=5A420495",
+        "dates": ["10/7"],
+        "series": "",
+        "types": ["party"]
+      },
+      {
         "name": "Horror Trivia",
         "location": "KOTO, Salem MA",
         "link": "https://www.facebook.com/events/1776109576020434/",
