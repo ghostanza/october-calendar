@@ -293,8 +293,26 @@
         "location": "Count Orlok's Nightmare Gallery, Salem MA",
         "link": "https://www.salemhorror.com/schedule/2017/10/7/meet-lar-park-lincoln",
         "image": "http://bh-s2.azureedge.net/bh-uploads/2015/11/Lar-bg12.jpg",
-        "dates": ["10/7"],
+        "dates": ["10/7", "10/8"],
         "series": "Salem Horror Fest",
+        "types": ["celebrity appearance"]
+      },
+      {
+        "name": "Meet & Greet with Kane Hodder",
+        "location": "Count Orlok's Nightmare Gallery, Salem MA",
+        "link": "http://www.nightmaregallery.com/october",
+        "image": "http://ariescope.com/wp-content/uploads/2013/06/CROWLEY.jpg",
+        "dates": ["10/6","10/7","10/8"],
+        "series": "",
+        "types": ["celebrity appearance"]
+      },
+      {
+        "name": "Meet & Greet with William Ragsdale",
+        "location": "Count Orlok's Nightmare Gallery, Salem MA",
+        "link": "http://www.nightmaregallery.com/october",
+        "image": "https://68.media.tumblr.com/6b5c64681da639da7c4aafcc8bc1cf9e/tumblr_onk927Njw81ue4wwmo2_1280.jpg",
+        "dates": ["10/13","10/14","10/15"],
+        "series": "",
         "types": ["celebrity appearance"]
       },
       {
@@ -540,7 +558,7 @@
         "image": "http://rockandshock.com/2012/wp-content/uploads/2017/07/rs-web-logo-2017-1024x299.jpg",
         "dates": ["10/13", "10/14", "10/15"],
         "series": "",
-        "types": ["convention", "performance", "panel", "celebrit appearance"]
+        "types": ["convention", "performance", "panel", "celebrity appearance"]
       },
       {
         "name": "May",
